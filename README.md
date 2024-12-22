@@ -1,4 +1,4 @@
-# Google Search Verbatim Mode 🔍
+# Force Verbatim Mode on Google Search - Chrome Extension 🔍
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
