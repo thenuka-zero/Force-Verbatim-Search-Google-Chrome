@@ -9,6 +9,7 @@
 This extension ensures that every Google search you perform uses Verbatim mode, which:
 * Forces exact keyword matching
 * Removes word variations and synonyms
+* Removes news results
 * Disables location-based result customization
 * Prevents automatic spelling corrections
 
